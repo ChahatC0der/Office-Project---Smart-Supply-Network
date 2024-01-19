@@ -65,7 +65,7 @@ a{
     display: none;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
 .header-contactbtn{
     display: none;
 }
@@ -131,7 +131,7 @@ a{
     color: white;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     #secondpart{
 /* height: auto; */
     }
@@ -217,7 +217,7 @@ a{
     font-size: 1rem;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     #prodandservices{
         height:auto;
         padding: 0em ;
@@ -325,7 +325,7 @@ min-height: 100vh;
     font-weight: 500;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     
 .Benefits-SSN{
     padding: 1em;
@@ -394,7 +394,7 @@ min-height: 100vh;
     /* border: rgb(252, 11, 11) solid 0.5em; */
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     #fifthpart{
         height: 25rem;
     }
@@ -470,7 +470,7 @@ min-height: 100vh;
     margin-top: 3em;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     .why-choose-ssn{
         min-height: 100vh;
         padding: 4em 4em 4em 4em;
@@ -640,7 +640,7 @@ overflow: hidden;
     font-weight: 700;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
 
     #seventhpart #sevevnthpart-secondsection-companydetails{
         height: auto;
@@ -798,7 +798,7 @@ align-items: center;
     font-size: 17px;
 }
 
-@media only screen and (max-width:320px) {
+@media only screen and (max-width:600px) {
     .Smart-Supply-description{
         padding: 1em;
         display: flex;
@@ -996,7 +996,7 @@ top: -1.5em;
     font-size: 3em;
 }
 
-@media only screen and (max-width:320px){
+@media only screen and (max-width:600px){
     footer{
         /* padding-left: 2em; */
     }
